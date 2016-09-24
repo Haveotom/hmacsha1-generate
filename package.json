@@ -1,0 +1,22 @@
+{
+  "name": "hmacsha1-generate",
+  "version": "1.0.2",
+  "description": "JavaScript impletementations of hashmacsha1 algorithms which will return basa64encode key or Hash",
+  "main": "hmacsha1-generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hmacsha1",
+    "generate hash" ,
+    "hmacsha1 signature",
+    "hmac sha1 key",
+    "sha1 hmac"
+  ],
+  "author": "Mohseen Khan",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "urlencode": "^1.1.0"
+  }
+}
